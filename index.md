@@ -1,57 +1,58 @@
 ---
-title: "GAME Checkpoint Resources"
+title: "Tyler Fentie Portfolio - Work In Progress"
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/Website-Header-2.png # image is 1280x400px. the height is a bit too tall so I just pushed the text/images down in Canva.
+  overlay_image: assets/images/500x300.png 
   actions:
-    - label: "Download All Files"
-      url: "https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/makersmakingchange/GAME-Checkpoints" # direct link to download the Main branch
-excerpt: "This website hosts all of the resources used to create GAME Checkpoints such as training materials, templates, and materials for centers."
+    - label: "Download Resume"
+      url: "" # direct link to download resume
+excerpt: "asdfasdf"
 feature_row:
   - image_path: assets/images/500x300.png
     alt: "-" #complete this once image is fixed.
-    title: "Reference Guides"
-    excerpt: "These guides are intended as tools to be used during or while prepping for an adaptive gaming session. Topics cover gaming gear, gaming basics, game guides, and best practices."
-    url: "/_pages/reference_guides/"
+    title: "asdfasdf"
+    excerpt: "asdfasdf"
+    url: "#"
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: assets/images/500x300.png
-    alt: "-" # complete this once image is fixed.
-    title: "Materials"
-    excerpt: "The gaming gear that is recommended for a full accessible gaming space."
-    url: "/_pages/Materials/"
+    alt: "-" #complete this once image is fixed.
+    title: "asdfasdf"
+    excerpt: "asdfasdf"
+    url: "#"
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: assets/images/500x300.png
-    title: "Gamer Session Questionnaire"
-    excerpt: "A questionnaire document to help determine the gaming goals and possible setup with a gamer. A insights document as well to explain the purpose of the questions."
-    url: "/_pages/Session_Questionnaire/" 
+    alt: "-" #complete this once image is fixed.
+    title: "asdfasdf"
+    excerpt: "asdfasdf"
+    url: "#"
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: assets/images/500x300.png
-    alt: "-" # complete this once image is fixed.
-    title: "Templates"
-    excerpt: "If you are looking to expand on our documentation, we have templated some of the content already for you."
-    url: "/_pages/Templates/"
+    alt: "-" #complete this once image is fixed.
+    title: "asdfasdf"
+    excerpt: "asdfasdf"
+    url: "#"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row2:
   - image_path: assets/images/500x300.png
-    alt: "-" # complete this once image is fixed.
-    title: "Low Cost Gaming Assistive Tech"
-    excerpt: 'Visit the Makers Making Change library with the filter "Gaming" and request a device or find the files to build one.'
-    url: "https://makersmakingchange.my.site.com/s/category/assistive-devices/0ZGJR00000002Mn4AI?c__results_layout_state=%7B%22page_number%22%3A1%2C%22category_id%22%3A%220ZGJR00000002Mn4AI%22%2C%22refinements%22%3A%5B%7B%22nameOrId%22%3A%22Device_Category__c%22%2C%22type%22%3A%22DistinctValue%22%2C%22attributeType%22%3A%22Custom%22%2C%22values%22%3A%5B%22Gaming%22%5D%7D%5D%7D"
-    btn_label: "Fing Low Cost Gaming AT"
+    alt: "-" #complete this once image is fixed.
+    title: "asdfasdf"
+    excerpt: "asdfasdf"
+    url: "#"
+    btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: assets/images/500x300.png
-    alt: ""
-    title: "Want to stay up to date on the GAME Checkpoints program and other programs?"
-    excerpt: 'Sign up for the Makers Making Change website! Find 200+ open source low cost assitive technologies, resources, and upcoming events.'
-    url: "https://www.makersmakingchange.com/s/login/SelfRegister?startURL=%2Fs%2F%3Ft%3D1706554861397"
-    btn_label: "Sign up to Makers Making Change"
+    alt: "-" #complete this once image is fixed.
+    title: "asdfasdf"
+    excerpt: "asdfasdf"
+    url: "#"
+    btn_label: "Learn More"
     btn_class: "btn--primary"
 feature_row4:
   - video:

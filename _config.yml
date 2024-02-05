@@ -15,17 +15,17 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GAME Checkpoint Resources"
+title                    : "Tyler Fentie"
 title_separator          : "-"
-subtitle                 : "Game Accessibility Made for Everyone"
-name                     : "Makers Making Change"
-description              : "Resources used to create GAME Checkpoints such as training materials, templates, and materials for centers."
-url                      : "https://makersmakingchange.github.io/GAME-Checkpoints/"
+subtitle                 : "asdfasf"
+name                     : "-"
+description              : "-"
+url                      : "https://tjfentie.github.io/tylerfentie-portfolio/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "makersmakingchange/GAME-Checkpoints"
+repository               : "tjfentie/tylerfentie-portfolio/"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "GAME Checkpoint Resources"
+masthead_title           : "Tyler Fentie"
 breadcrumbs              : false
 words_per_minute         : 200
 
@@ -61,19 +61,10 @@ footer:
   links:
     - label: " "
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MakerMakeChange"
-    - label: " "
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/makersmakechange"
+      url: "https://twitter.com/TJFentie"
     - label: " "
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/makersmakingchange"
-    - label: " "
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/makersmakingchange"
-    - label: " "
-      icon: "fab fa-youtube-square"
-      url: "https://www.youtube.com/channel/UCtn0ODz_yq_w9Uy6lUXGX-A"
+      url: "https://github.com/tjfentie"
 
 # Reading Files
 include:
