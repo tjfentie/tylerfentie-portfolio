@@ -1,5 +1,5 @@
 ---
-title: "Template"
+title: "Test yaml"
 layout: splash
 excerpt: |
   asdfadsf
