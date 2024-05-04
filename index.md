@@ -8,7 +8,7 @@ header:
   actions:
     - label: "Download Resume"
       url: "" # direct link to download resume
-excerpt: "asdfasdf"
+excerpt: "If you're in a rush, you can download my resume by clicking the button. Otherwise, enjoy checking out my portfolio!"
 feature_row:
   - image_path: assets/images/500x300.png
     alt: "-" #complete this once image is fixed.
