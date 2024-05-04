@@ -10,9 +10,9 @@ header:
 feature_row:
   - image_path: assets/images/contact/Tyler-headshot-full.jpg
     alt: "-" # complete this once image is fixed.
-    title: "Tyler Fentie, EIT"
+    title: "Tyler Fentie, EIT, ATP, RET"
     excerpt: |
-        - Mechanical Engineer with Biomedical Focus
+        - Mechanical Engineer with Biomedical Engineering Focus
         - Calgary, AB
         - tylerfentie@gmail.com
 
