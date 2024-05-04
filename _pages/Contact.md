@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Contact"
 layout: splash
 
 excerpt: |
